@@ -1,0 +1,9 @@
+# Normalize line endings to LF for all text files
+* text=auto eol=lf
+
+# Markdown files
+*.md text diff=markdown
+
+# Binary files
+*.png binary
+*.jpg binary
